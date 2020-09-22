@@ -27,6 +27,13 @@ h1{
   font-family: monospace;
   color: #A04000;
 }
+.right h2 a {
+  color: #A04000;
+  text-decoration: none; 
+}
+.right h2 a:hover {
+      color: #44A76C;
+}
 
 /* If you want the content centered horizontally and vertically */
 .centered {
